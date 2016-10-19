@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLImport>
+  <Products>
+    <Product SKUID="01121808">
+      <Brand><![CDATA[Frigidaire:Frigidaire]]></Brand>
+      <ProductLine><![CDATA[Refrigerator Accessories:Ice Cube Tray]]></ProductLine>
+      <Color>None</Color>
+      <UPC>012505454974</UPC>
+      <InstallationType>N/A</InstallationType>
+      <NominalPowerType>None</NominalPowerType>
+      <NominalSize>N/A</NominalSize>
+      <BaseModel>01121808</BaseModel>
+      <Dimensions>
+        <Depth/>
+        <Height/>
+        <Width/>
+        <Weight/>
+      </Dimensions>
+      <Factory/>
+      <ModelYear>Unknown</ModelYear>
+      <MktChnData>
+        <Market MSRP="6.09" MarketName="US">
+          <Channel>
+            <ChannelName><![CDATA[Dealers]]></ChannelName>
+            <ProductName><![CDATA[Ice Cube Tray]]></ProductName>
+            <ProductDescription><![CDATA[Frigidaire Ice Cube Trays are designed to channel water so the trays fill quickly and evenly. The trays stack securely on top of each other, as well as on top of other standard size ice cube trays. 1 tray.]]></ProductDescription>
+            <LastUpdateOnSKU>3/4/2016 1:27 PM</LastUpdateOnSKU>
+            <FeatureRanking>
+              <LastUpdateOnFeature>3/4/2016 1:27 PM</LastUpdateOnFeature>
+            </FeatureRanking>
+            <Specifications>
+              <Purpose-AttributeSet PurposeName="Consumer">
+                <Spec AttributeID="1400246398900" IsKey="" Rank="1">
+                  <SpecArea><![CDATA[General Specifications]]></SpecArea>
+                  <SpecName><![CDATA[Construction]]></SpecName>
+                  <SpecValue><![CDATA[Polypropylene]]></SpecValue>
+                </Spec>
+                <Spec AttributeID="1400246398902" IsKey="No" Rank="1">
+                  <SpecArea><![CDATA[General Specifications]]></SpecArea>
+                  <SpecName><![CDATA[Item Package Quantity]]></SpecName>
+                  <SpecValue><![CDATA[1]]></SpecValue>
+                </Spec>
+                <Spec AttributeID="1400246398895" IsKey="No" Rank="11">
+                  <SpecArea><![CDATA[Exterior Dimensions]]></SpecArea>
+                  <SpecName><![CDATA[Height]]></SpecName>
+                  <SpecValue><![CDATA[12-1/2"]]></SpecValue>
+                </Spec>
+                <Spec AttributeID="1400246398897" IsKey="No" Rank="12">
+                  <SpecArea><![CDATA[Exterior Dimensions]]></SpecArea>
+                  <SpecName><![CDATA[Width]]></SpecName>
+                  <SpecValue><![CDATA[5-1/4"]]></SpecValue>
+                </Spec>
+              </Purpose-AttributeSet>
+            </Specifications>
+          </Channel>
+        </Market>
+      </MktChnData>
+      <RelatedProducts/>
+      <Assets>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/89/01121808_34VL_202x232.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/328/952/01121808_34VL_202x232_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/328/952/01121808_34VL_202x232_Thumbnail.jpg" FileID="01121808_34VL_202x232.png">
+          <AssetPurpose>PL image large</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>2/2/2015 6:42 PM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/3/01121808_34VL_2_92x84.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/328/950/01121808_34VL_2_92x84_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/328/950/01121808_34VL_2_92x84_Thumbnail.jpg" FileID="01121808_34VL_2_92x84.png">
+          <AssetPurpose>Shopping Cart Thumb</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>2/2/2015 6:42 PM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/4/01121808_34VL_511x473.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/328/951/01121808_34VL_511x473_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/328/951/01121808_34VL_511x473_Thumbnail.jpg" FileID="01121808_34VL_511x473.png">
+          <AssetPurpose>Gallery hov large</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>2/2/2015 6:42 PM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/4/01121808_34VL_92x84.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/328/955/01121808_34VL_92x84_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/328/955/01121808_34VL_92x84_Thumbnail.jpg" FileID="01121808_34VL_92x84.png">
+          <AssetPurpose>Gallery hov thumb</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>2/2/2015 6:42 PM </AssetChangeDate>
+        </Asset>
+      </Assets>
+    </Product>
+    <Product SKUID="131059700">
+      <Brand><![CDATA[Frigidaire:Frigidaire]]></Brand>
+      <ProductLine><![CDATA[Laundry Accessory:Drying Rack]]></ProductLine>
+      <Color>None</Color>
+      <UPC>012505454981</UPC>
+      <InstallationType>N/A</InstallationType>
+      <NominalPowerType>None</NominalPowerType>
+      <NominalSize>N/A</NominalSize>
+      <BaseModel>131059700</BaseModel>
+      <Dimensions>
+        <Depth/>
+        <Height/>
+        <Width/>
+        <Weight/>
+      </Dimensions>
+      <Factory><![CDATA[Sourced]]></Factory>
+      <ModelYear>Unknown</ModelYear>
+      <MktChnData>
+        <Market MSRP="17.75" MarketName="US">
+          <Channel>
+            <ChannelName><![CDATA[Dealers]]></ChannelName>
+            <ProductName><![CDATA[Dryer Rack]]></ProductName>
+            <ProductDescription><![CDATA[The Dryer Rack offers the perfect place for clothes to dry without stretching, becoming misshapen or ending up with wrinkles or creases.  Place rack in the dryer and place the item on the rack.  If desired, the dryer can be set to air fluff so that items can be dried at room temperature using just air flow; no fabric tumbling involved.  Fits 27-inch free-standing dryers only.]]></ProductDescription>
+            <LastUpdateOnSKU>3/14/2016 5:35 PM</LastUpdateOnSKU>
+            <FeatureRanking>
+              <LastUpdateOnFeature>3/14/2016 5:35 PM</LastUpdateOnFeature>
+            </FeatureRanking>
+            <Specifications>
+              <Purpose-AttributeSet PurposeName="Consumer">
+                <Spec AttributeID="1400246399380" IsKey="No" Rank="3">
+                  <SpecArea><![CDATA[General Specifications]]></SpecArea>
+                  <SpecName><![CDATA[Shipping Weight (lbs)]]></SpecName>
+                  <SpecValue><![CDATA[2.85]]></SpecValue>
+                </Spec>
+              </Purpose-AttributeSet>
+            </Specifications>
+          </Channel>
+        </Market>
+      </MktChnData>
+      <RelatedProducts/>
+      <Assets>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/73/P_N_131059700_315x375.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/173/072/P_N_131059700_315x375_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/173/072/P_N_131059700_315x375_Thumbnail.jpg" FileID="P_N_131059700_315x375.png">
+          <AssetPurpose>Related large</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>12/18/2013 1:49 PM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/73/P_N_131059700_202x232.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/173/058/P_N_131059700_202x232_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/173/058/P_N_131059700_202x232_Thumbnail.jpg" FileID="P_N_131059700_202x232.png">
+          <AssetPurpose>PL image large</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>12/18/2013 1:49 PM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/137/$v3/P_N_131059700_92x84.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/280/890/$v3/P_N_131059700_92x84_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/280/890/$v3/P_N_131059700_92x84_Thumbnail.jpg" FileID="P_N_131059700_92x84.png">
+          <AssetPurpose>Gallery hov thumb</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>6/23/2014 7:42 AM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/137/$v3/P_N_131059700_92x84.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/280/890/$v3/P_N_131059700_92x84_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/280/890/$v3/P_N_131059700_92x84_Thumbnail.jpg" FileID="P_N_131059700_92x84.png">
+          <AssetPurpose>Shopping Cart Thumb</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>6/23/2014 7:42 AM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/156/P_N_131059700_92x84_1.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/320/542/P_N_131059700_92x84_1_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/320/542/P_N_131059700_92x84_1_Thumbnail.jpg" FileID="P_N_131059700_92x84_1.png">
+          <AssetPurpose>Shopping Cart Thumb</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>10/28/2014 6:25 AM </AssetChangeDate>
+        </Asset>
+        <Asset
+          AssetFilePath="http://na.electroluxmedia.com/assets/medias/images/137/$v3/P_N_131059700_511x473.png"
+          AssetPreviewPath="http://na.electroluxmedia.com/assets/derivates/2/001/280/892/$v3/P_N_131059700_511x473_Preview.jpg"
+          AssetThumbPath="http://na.electroluxmedia.com/assets/derivates/3/001/280/892/$v3/P_N_131059700_511x473_Thumbnail.jpg" FileID="P_N_131059700_511x473.png">
+          <AssetPurpose>Gallery hov large</AssetPurpose>
+          <AssetFileType>png</AssetFileType>
+          <AssetChangeDate>6/23/2014 7:42 AM </AssetChangeDate>
+        </Asset>
+      </Assets>
+    </Product>
+  </Products>
+</XMLImport>
