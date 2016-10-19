@@ -1,3 +1,5 @@
+require "../xml_parse.rb"
+
 namespace :xml_parse do
 
 xml_doc = Nokogiri::XML(File.open("vendor/assets/data/FlatFile_US_CA_Contract_EN.xml"))
@@ -5,9 +7,6 @@ xml_doc = Nokogiri::XML(File.open("vendor/assets/data/FlatFile_US_CA_Contract_EN
 
   desc "importing products"
   task import_products: :environment do
-    products = xml_doc.css('Products').text
-    brands = xml_doc.xpath("//Product").text
-    products_two = xml_doc.xpath("///Products").text
   end
 
   desc "importing product specifications"
@@ -23,6 +22,7 @@ xml_doc = Nokogiri::XML(File.open("vendor/assets/data/FlatFile_US_CA_Contract_EN
         brand_list << text
       end
     end
+
   end
 
   desc "importing dimensions"
